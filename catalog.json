@@ -1,0 +1,16 @@
+{
+  "operadora": {
+    "key": "operadora",
+    "module": "Contato",
+    "label": "Operadora",
+    "method": "GET",
+    "path": "/api/v1/query/operadora",
+    "params": [
+      {
+        "name": "telefone",
+        "label": "Telefone",
+        "required": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "cpfbuscas-examples/cpfbuscas-api-operadora-telefone-php",
+  "type": "project",
+  "description": "Consulta de operadora por telefone com PHP e API CPF Buscas: normalização de DDD e número, cURL e JSON.",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.2",
+    "ext-curl": "*",
+    "ext-json": "*"
+  },
+  "scripts": {
+    "test": "php tests/run.php"
+  },
+  "keywords": [
+    "php",
+    "cpfbuscas",
+    "api-rest",
+    "curl",
+    "exemplos-php",
+    "operadora",
+    "telefone",
+    "ddd",
+    "consulta-operadora"
+  ]
+}
